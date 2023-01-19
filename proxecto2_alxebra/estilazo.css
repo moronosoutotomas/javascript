@@ -1,0 +1,30 @@
+html {
+    background-color: rgb(255, 177, 194);
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    color:rgb(255, 255, 255);
+}
+
+a {
+    margin: 10px;
+    color: black;
+}
+
+
+
+
+
+.calculadora {
+    background-color: rgb(255, 125, 125);
+    margin: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 1px;
+    border-radius: 6px;
+}
+
+.firma {
+    text-align: right;
+    color: black;
+}
